@@ -8,3 +8,14 @@
 .fa-brands{
     color: white;
 }
+
+@media only screen and (max-width:576px) {
+    .mobile{
+        display: block;
+        flex-direction: column;
+    }
+
+    .mobile-width{
+        width:100%;
+    }
+}
