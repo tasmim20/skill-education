@@ -1,0 +1,10 @@
+
+/* slider image brightness */
+.brightness{
+    filter: brightness(50%);
+}
+
+/* socail media icon color */
+.fa-brands{
+    color: white;
+}
